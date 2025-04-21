@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"npx tailwindcss -i ./styles/style.css -o ./styles/output.css --watch"
+    "dev": "npx tailwindcss -i ./styles/style.css -o ./styles/output.css --watch"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +12,13 @@
   "type": "commonjs",
   "devDependencies": {
     "tailwindcss": "^3.4.17"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlon95/projeto-cardapio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Carlon95/projeto-cardapio/issues"
+  },
+  "homepage": "https://github.com/Carlon95/projeto-cardapio#readme"
 }
