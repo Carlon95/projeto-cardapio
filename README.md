@@ -32,16 +32,14 @@ JavaScript (puro)
 Vercel para deploy
 
 # 📦 Como Rodar Localmente
-bash
-Copiar
-Editar
-# Clone o repositório
+
+## Clone o repositório
 git clone https://github.com/Carlon95/projeto-cardapio.git
 
-# Acesse a pasta
+## Acesse a pasta
 cd projeto-cardapio
 
-# Abra o index.html no navegador
+## Abra o index.html no navegador
 Dica: Use a extensão "Live Server" no VSCode para melhor experiência em desenvolvimento.
 
 # 💡 Melhorias Futuras
